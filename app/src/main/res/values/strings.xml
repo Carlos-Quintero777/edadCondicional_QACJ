@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">edadCondicional_QACJ</string>
+    <string name="saludo">HOLA, ¡BIENVENIDO! A NADIE LE GUSTA ESPERAR ¿NO? PERO NO HAY MODO</string>
+    <string name="tmpcarga">ESPERA UN MOMENTO, ESTOY REVISANDO TUS ANTECEDENTES PENALES</string>
+    <string name="mensaje1">POR FAVOR ¡INGRESA LOS DATOS QUE SE REQUIEREN!, SI QUIERES CONTINUAR</string>
+    <string name="cadnombre">N O M B R E</string>
+    <string name="cadedad">E D A D</string>
+    <string name="heroe">¡GENIAL! "¡¡ERES MAYOR DE EDAD!!", PUEDES PERTENECER A LA SECTA, PUEDES INGRESAR COMPAÑERO.</string>
+    <string name="asistente">¿QUÉ? "¡¡TÚ ERES MENOR DE EDAD!!", CLARO QUE NO PUEDES SER MIEMBRO, ES ILEGAL</string>
+    <string name="salir">¿TE QUIERES RETIRAR? ... ¡ESTÁ BIEN!</string>
+</resources>
